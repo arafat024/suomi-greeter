@@ -30,3 +30,6 @@ Pull the image:
 
 ```bash
 docker pull arafat024/suomi-greeter:latest
+```
+### Live application
+https://suomi-greeter-848217949200.europe-north1.run.app
